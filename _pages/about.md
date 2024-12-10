@@ -44,8 +44,8 @@ My PhD research interests lie in action recognition under complex environments, 
 - *2023.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2023.
 - *2023.06*: &nbsp;🎉🎉 Two co-authored papers were accepted by ICASSP 2023.
 - *2022.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ICME 2022.
-- *2022.06*: &nbsp;🎉🎉 One co-authored paper was accepted by TIP!
-- *2021.11*: &nbsp;🎉🎉 One co-authored paper was accepted by MMM!
+- *2022.06*: &nbsp;🎉🎉 One co-authored paper was accepted by TIP.
+- *2021.11*: &nbsp;🎉🎉 One co-authored paper was accepted by MMM.
 - *2021.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2021.
 - *2020.06*: &nbsp;🎉🎉 One co-authored paper was accepted by ICMR 2020.
 
