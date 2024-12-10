@@ -20,9 +20,17 @@ redirect_from:
 My PhD research interests lie in action recognition under complex environments, video content analysis, and computing science. My ultimate aim is to use machine intelligence to help understand human action, facilitating daily life and health. I am currently delving into spike vision.
 
 
-# 🔥 News
+# 🔥 Action-related News
+- *2024.12*: &nbsp;🎉🎉 One paper was accepted by the Journal of Image and Graphics, 中国图象图形学报. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+# 🔥 Spike-related News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- 
+# 🔥 Other News
+- *2024.10*: &nbsp;🎉🎉 One co-authored paper was accepted by AAAI2025!
+- *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024 Workshop on Multi-modal Misinformation Governance in the Era of Foundation Models!
 
 # 📝 Publications 
 
