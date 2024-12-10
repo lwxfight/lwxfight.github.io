@@ -67,7 +67,7 @@ My PhD research interests lie in action recognition under complex environments, 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='_images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-Recommendation Disentanglement Network for View Fuzz in Action Recognition](https://ieeexplore.ieee.org/abstract/document/10122859)
