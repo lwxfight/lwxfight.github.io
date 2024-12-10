@@ -65,6 +65,23 @@ My PhD research interests lie in action recognition under complex environments, 
 </div>
 
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM HCMA</div><img src='_images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dual-Recommendation Disentanglement Network for View Fuzz in Action Recognition](https://ieeexplore.ieee.org/abstract/document/10122859)
+
+**Wenxuan Liu**, Xian Zhong, Zhuo Zhou, Kui Jiang, Zheng Wang, and Chia-Wen Lin
+
+[**PDF**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10122859) [**CODE**](https://github.com/51cloud/DRDN)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This paper perceives a ubiquitous view fuzz issue in multi-view action recognition tasks, which undermines the action feature distillation by hiding essential action regions.
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM HCMA</div><img src='_pages/0809_1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
