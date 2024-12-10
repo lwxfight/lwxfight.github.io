@@ -51,7 +51,7 @@ My PhD research interests lie in action recognition under complex environments, 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='_pages/DSMF0422_1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='_pages/DSMF0422_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamic and static mutual fitting for action recognition](https://www.sciencedirect.com/science/article/abs/pii/S003132032400699X)
