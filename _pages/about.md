@@ -63,19 +63,33 @@ My PhD research interests lie in action recognition under complex environments, 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='_pages/0809_1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pixel-REfocused Navigated Tri-margin for Semi-supervised Action Detection](https://dl.acm.org/doi/abs/10.1145/3688865.3689478)
+
+**Wenxuan Liu**, Shilei Zhao, Xiyu Han, Aoyu Yi, Kui Jiang, Zheng Wang, Xian Zhong
+
+[**PDF**](https://dl.acm.org/doi/pdf/10.1145/3688865.3689478) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose Dynamic Temporal-aware Erasing (DTE) to excavate the fine-grained representation based on actor trajectory without destroying temporal information. 
+</div>
+</div>
+
+
+- [Pioneering Explainable Video Fact-Checking with a New Dataset and Multi-role Multimodal Model Approach](https://github.com), Kaipeng Niu, Danni xu, Bingjian Yang, **Wenxuan Liu**, Zheng Wang, **AAAI 2025**
+- [Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks](https://github.com/hsw0929/HSD), Xian Zhong, Shengwang Hu, **Wenxuan Liu***, Wenxin Huang, Jianhao Ding, Zhaofei Yu, Tiejun Huang, **ACM MM 2024**
+- [Predicting the Unseen: A Novel Dataset for Hidden Intention Localization in Pre-abnormal Analysis](https://github.com/Zzz99999/Hidden_Abnormal_Intention), Zehao Qi, Ruixu Zhang, Xinyi Hu, **Wenxuan Liu**, Zheng Wang, **ACM MM 2024**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* ACM MM 2024 the 5-th International Workshop on Human-centric Multimedia Analysis, Best Student Paper Runner-Up.
+- *2024.07* Outstanding Graduate Student of Wuhan University of Technology.
+- *2023.07* First Prize in the ICME ’23 Grand Challenge “Seeing Through the Rain (STRAIN): Vision Task Challenges in Real-world Rain Scenes”, Track 3.
+- *2022.08* Third Prize in the 11th China Software Cup Student Software Design Competition
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06 - now*, Postdoctor, Peking University, China.
+- *2019.09 - 2024.06*, Ph D, Wuhan University of Technology, China.
+- *2017.09 - 2019.06*, Master, Wuhan University of Technology, China.
+- *2012.09 - 2016.06*, Bachelor, Xi’an Polytechnic of University, China. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
