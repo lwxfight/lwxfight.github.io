@@ -64,7 +64,7 @@ My PhD research interests lie in action recognition under complex environments, 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='_pages/0809_1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM HCMA</div><img src='_pages/0809_1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pixel-REfocused Navigated Tri-margin for Semi-supervised Action Detection](https://dl.acm.org/doi/abs/10.1145/3688865.3689478)
