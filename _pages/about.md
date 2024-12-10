@@ -21,16 +21,33 @@ My PhD research interests lie in action recognition under complex environments, 
 
 
 # 🔥 Action-related News
-- *2024.12*: &nbsp;🎉🎉 One paper was accepted by the Journal of Image and Graphics, 中国图象图形学报. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
+- *2024.12*: &nbsp;🎉🎉 One paper was accepted by Journal of Image and Graphics, 中国图象图形学报. 
+- *2024.08*: &nbsp;🎉🎉 One paper was accepted by PR.
+- *2024.07*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2024 International Workshop on Human-centric Multimedia Analysis.
+- *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024.
+- *2024.03*: &nbsp;🎉🎉 One co-authored paper was accepted by CVPR 2024.
+- *2023.10*: &nbsp;🎉🎉 One co-authored paper was accepted by ICIP.
+- *2023.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2023.
+- *2023.06*: &nbsp;🎉🎉 Two co-authored papers were accepted by ICASSP 2023.
+- *2023.05*: &nbsp;🎉🎉 One paper was accepted by TIP.
+- *2022.06*: &nbsp;🎉🎉 One co-authored paper was accepted by ICASSP 2022.
+- *2021.11*: &nbsp;🎉🎉 Two co-authored papers were accepted by PRICAI 2021.
+  
 # 🔥 Spike-related News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024.
+- *2024.04*: &nbsp;🎉🎉 One co-authored paper was accepted by TCDS.
 - 
 # 🔥 Other News
-- *2024.10*: &nbsp;🎉🎉 One co-authored paper was accepted by AAAI2025!
-- *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024 Workshop on Multi-modal Misinformation Governance in the Era of Foundation Models!
+- *2024.10*: &nbsp;🎉🎉 One co-authored paper was accepted by AAAI2025.
+- *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024 Workshop on Multi-modal Misinformation Governance in the Era of Foundation Models.
+- *2023.11*：&nbsp;🎉🎉 One co-authored paper was accepted by PR.
+- *2023.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2023.
+- *2023.06*: &nbsp;🎉🎉 Two co-authored papers were accepted by ICASSP 2023.
+- *2022.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ICME 2022.
+- *2022.06*: &nbsp;🎉🎉 One co-authored paper was accepted by TIP!
+- *2021.11*: &nbsp;🎉🎉 One co-authored paper was accepted by MMM!
+- *2021.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2021.
+- *2020.06*: &nbsp;🎉🎉 One co-authored paper was accepted by ICMR 2020.
 
 # 📝 Publications 
 
