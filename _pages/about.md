@@ -37,7 +37,8 @@ My PhD research interests lie in action recognition under complex environments, 
 # 🔥 Spike-related News
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024.
 - *2024.04*: &nbsp;🎉🎉 One co-authored paper was accepted by TCDS.
-- 
+
+  
 # 🔥 Other News
 - *2024.10*: &nbsp;🎉🎉 One co-authored paper was accepted by AAAI2025.
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024 Workshop on Multi-modal Misinformation Governance in the Era of Foundation Models.
