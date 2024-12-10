@@ -72,7 +72,7 @@ My PhD research interests lie in action recognition under complex environments, 
 **Wenxuan Liu**, Shilei Zhao, Xiyu Han, Aoyu Yi, Kui Jiang, Zheng Wang, Xian Zhong
 
 [**PDF**](https://dl.acm.org/doi/pdf/10.1145/3688865.3689478) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose Dynamic Temporal-aware Erasing (DTE) to excavate the fine-grained representation based on actor trajectory without destroying temporal information. 
+- This paper identifies a novel issue, termed pixel activation-uncertainty, in semi-supervised action detection, which highlights the difficulty in distinguishing between action and background boundaries due to active motion. 
 </div>
 </div>
 
