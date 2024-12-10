@@ -24,7 +24,7 @@ My PhD research interests lie in action recognition under complex environments, 
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by Journal of Image and Graphics, 中国图象图形学报. 
 - *2024.08*: &nbsp;🎉🎉 One paper was accepted by PR.
 - *2024.07*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2024 International Workshop on Human-centric Multimedia Analysis.
-- *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by Computer Engineering, 计算机工程.
+- *2024.07*: &nbsp;🎉🎉 One co-authored paper (https://bar.cnki.net/bar/download/order?id=Pmp%2F5es3RB81cmauPwpbvptZFPGzz32xXYww99gr5E1iRrp%2BIpfT0%2B4%2F%2BdNMKUkXQ2MVapOwfZ%2FmNG0%2FuwbwdksBTfFgdZziwXEXl8%2FP8X3w7Umt9nDzwy31%2BirqzzeUOXd9VWRdK41te2p4b3E6n7R%2B7uf%2FUq5onmDkPfYmN%2FzIRUHBpmYiWZCdd8rlvRr07HzfyNM0LCyz1%2FRgdv9aloMX5JGWqPQ9tv1Nvi2nIbzzVa7iAiwa56WHu3aT8kfpyECrIc9nNSRBQT%2Bwfexp0A%3D%3D) was accepted by Computer Engineering, 计算机工程.
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024.
 - *2024.03*: &nbsp;🎉🎉 One co-authored paper was accepted by CVPR 2024.
 - *2023.10*: &nbsp;🎉🎉 One co-authored paper was accepted by ICIP.
