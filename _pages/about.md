@@ -30,6 +30,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by Journal of Image and Graphics, 中国图象图形学报. 
 - *2024.08*: &nbsp;🎉🎉 One paper was accepted by PR.
 - *2024.07*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2024 International Workshop on Human-centric Multimedia Analysis.
+- *2024.05*: &nbsp;🎉🎉 One paper was accepted by The Visual Computer.
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper (时空语义驱动的渐进多视角行为去偏置研究) was accepted by Computer Engineering, 计算机工程.
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024.
 - *2024.03*: &nbsp;🎉🎉 One co-authored paper was accepted by CVPR 2024.
@@ -37,6 +38,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 - *2023.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2023.
 - *2023.06*: &nbsp;🎉🎉 Two co-authored papers were accepted by ICASSP 2023.
 - *2023.05*: &nbsp;🎉🎉 One paper was accepted by TIP.
+- *2022.12*: &nbsp;🎉🎉 One paper was accepted by SPL.
 - *2022.06*: &nbsp;🎉🎉 One co-authored paper was accepted by ICASSP 2022.
 - *2021.11*: &nbsp;🎉🎉 Two co-authored papers were accepted by PRICAI 2021.
   
