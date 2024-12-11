@@ -112,7 +112,10 @@ If you are seeking any form of academic cooperation, please feel free to email a
 - [ICLR: Instance Credibility-Based Label Refinement for label noisy person re-identification](https://www.sciencedirect.com/science/article/abs/pii/S0031320323008658), Xian Zhong, Xiyu Han, Xuemei Jia, Wenxin Huang, **Wenxuan Liu**, Shuaipeng Su, Xiaohan Yu, Mang Ye, **PR 2024**
 - [Converting Artificial Neural Networks to Ultra-Low-Latency Spiking Neural Networks for Action Recognition](https://ieeexplore.ieee.org/abstract/document/10466357), Hong You, Xian Zhong, **Wenxuan Liu**, Qi Wei, Wenxin Huang, Zhaofei Yu, Tiejun Huang, **TCDS 2024**
 - [Uncovering the Unseen: Discover Hidden Intentions by Micro-Behavior Graph Reasoning](https://dl.acm.org/doi/abs/10.1145/3581783.3611892), Zhuo Zhou, **Wenxuan Liu***, Danni Xu, Zheng Wang, Jian Zhao, **ACM MM 2023**
-- [Dawn: Direction-aware attention wavelet network for image deraining](https://dl.acm.org/doi/abs/10.1145/3581783.3611697), Kui Jiang, Wenxuan Liu, Zheng Wang, Xian Zhong, Junjun Jiang, Chia-Wen Lin, **ACM MM 2023**
+- [Dawn: Direction-aware attention wavelet network for image deraining](https://dl.acm.org/doi/abs/10.1145/3581783.3611697), Kui Jiang, **Wenxuan Liu**, Zheng Wang, Xian Zhong, Junjun Jiang, Chia-Wen Lin, **ACM MM 2023**
+- [Background-weakening consistency regularization for semi-supervised video action detection](https://ieeexplore.ieee.org/abstract/document/10095478), Xian Zhong, Aoyu Yi, **Wenxuan Liu***, Wenxin Huang, Chengming Zou, Zheng Wang, **ICASSP 2023**
+- [Neighborhood information-based label refinement for person re-identification with label noise](https://ieeexplore.ieee.org/abstract/document/10096080), Xian Zhong, Shuaipeng Su, **Wenxuan Liu***, Xuemei Jia, Wenxin Huang, Mengdie Wang, **ICASSP 2023**
+- [Implicit Attention-Based Cross-Modal Collaborative Learning for Action Recognition](), Jianghao Zhang, Xian Zhong, **Wenxuan Liu***, Kui Jiang, Zhengwei Yang, Zheng Wang, **ICIP 2023**
 
 
 
