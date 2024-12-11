@@ -107,6 +107,16 @@ If you are seeking any form of academic cooperation, please feel free to email a
 - [Pioneering Explainable Video Fact-Checking with a New Dataset and Multi-role Multimodal Model Approach](https://github.com), Kaipeng Niu, Danni xu, Bingjian Yang, **Wenxuan Liu**, Zheng Wang, **AAAI 2025**
 - [Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks](https://github.com/hsw0929/HSD), Xian Zhong, Shengwang Hu, **Wenxuan Liu***, Wenxin Huang, Jianhao Ding, Zhaofei Yu, Tiejun Huang, **ACM MM 2024**
 - [Predicting the Unseen: A Novel Dataset for Hidden Intention Localization in Pre-abnormal Analysis](https://github.com/Zzz99999/Hidden_Abnormal_Intention), Zehao Qi, Ruixu Zhang, Xinyi Hu, **Wenxuan Liu**, Zheng Wang, **ACM MM 2024**
+- [Assess and Guide: Multi-modal Fake News Detection via Decision Uncertainty](https://dl.acm.org/doi/abs/10.1145/3689090.3689389), Jie Wu, Danni Xu, **Wenxuan Liu**, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang, **ACM MM 2024 Workshop Multi-modal Misinformation**
+- [Bi-Causal: Group Activity Recognition via Bidirectional Causality](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Bi-Causal_Group_Activity_Recognition_via_Bidirectional_Causality_CVPR_2024_paper.pdf), Youliang Zhang, **Wenxuan Liu**, Danni Xu, Zhuo Zhou, Zheng Wang, **CVPR 2024**
+- [ICLR: Instance Credibility-Based Label Refinement for label noisy person re-identification](https://www.sciencedirect.com/science/article/abs/pii/S0031320323008658), Xian Zhong, Xiyu Han, Xuemei Jia, Wenxin Huang, **Wenxuan Liu**, Shuaipeng Su, Xiaohan Yu, Mang Ye, **PR 2024**
+- [Converting Artificial Neural Networks to Ultra-Low-Latency Spiking Neural Networks for Action Recognition](https://ieeexplore.ieee.org/abstract/document/10466357), Hong You, Xian Zhong, **Wenxuan Liu**, Qi Wei, Wenxin Huang, Zhaofei Yu, Tiejun Huang, **TCDS 2024**
+- [Uncovering the Unseen: Discover Hidden Intentions by Micro-Behavior Graph Reasoning](https://dl.acm.org/doi/abs/10.1145/3581783.3611892), Zhuo Zhou, **Wenxuan Liu***, Danni Xu, Zheng Wang, Jian Zhao, **ACM MM 2023**
+- [Dawn: Direction-aware attention wavelet network for image deraining](https://dl.acm.org/doi/abs/10.1145/3581783.3611697), Kui Jiang, Wenxuan Liu, Zheng Wang, Xian Zhong, Junjun Jiang, Chia-Wen Lin, **ACM MM 2023**
+
+
+
+
 
 # 🎖 Honors and Awards
 - *2024.10* ACM MM 2024 the 5-th International Workshop on Human-centric Multimedia Analysis, Best Student Paper Runner-Up.
