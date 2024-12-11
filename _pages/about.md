@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I received my Ph.D. from [Wuhan University of Technology](http://english.whut.edu.cn/) in 2024, and I was extremely fortunate to be supervised by [Prof. Luo Zhong](https://baike.baidu.com/item/%E9%92%9F%E7%8F%9E/9264964), one of the most dedicated teachers I have ever met.
-My PhD research interests lie in action recognition under complex environments, video content analysis, and computing science. My ultimate aim is to use machine intelligence to help understand human action, facilitating daily life and health. I am currently delving into spike vision.
+My PhD research interests lie in action recognition under complex environments, video content analysis, and computing science. My ultimate aim is to use machine intelligence to help understand human action, facilitating daily life and health. 
+
+I am currently delving into spike vision at Peking University, under the supervision of [Prof. Tiejun Huang](https://cs.pku.edu.cn/info/1215/1980.htm), a leading expert in [spike vision](https://spikecv.github.io/zh/index.html).
 
 
 # 🔥 Action-related News
