@@ -22,6 +22,9 @@ My PhD research interests lie in action recognition under complex environments, 
 
 I am currently delving into spike vision at Peking University, under the supervision of [Prof. Tiejun Huang](https://cs.pku.edu.cn/info/1215/1980.htm), a leading expert in [spike vision](https://spikecv.github.io/zh/index.html).
 
+# 🤜🤛 Group 
+I maintain close collaborations with [Prof. Zhong Xian](http://cst.whut.edu.cn/xygk/szdw/201505/t20150527_876884.shtml)'s team [XIAN Group](https://xiangroup.github.io/) at Wuhan University of Technology and [AIM Lab](http://aim-nercms.whu.edu.cn/) of [Prof. Wang Zheng](https://wangzwhu.github.io/home/) from Wuhan University.
+If you are seeking any form of academic cooperation, please feel free to email at liuwx66@pku.edu.cn.
 
 # 🔥 Action-related News
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by Journal of Image and Graphics, 中国图象图形学报. 
