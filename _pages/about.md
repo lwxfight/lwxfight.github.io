@@ -48,6 +48,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 
   
 # 🔥 Other News
+- *2024.12*: &nbsp;🎉🎉 One co-authored paper was accepted by CVIU (CCF B). Congradulations to YES!
 - *2024.10*: &nbsp;🎉🎉 One co-authored paper was accepted by AAAI2025.
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024 Workshop on Multi-modal Misinformation Governance in the Era of Foundation Models.
 - *2023.11*：&nbsp;🎉🎉 One co-authored paper was accepted by PR.
@@ -103,7 +104,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 </div>
 </div>
 
-
+- [YES: You should Examine Suspect Cues for Low-Light Object Detection]{}, Shu Ye, Wenxin Huang, **Wenxuan Liu**, Liang Chen, Xiao Wang, Xian Zhong, **CVIU**
 - [Pioneering Explainable Video Fact-Checking with a New Dataset and Multi-role Multimodal Model Approach](https://github.com), Kaipeng Niu, Danni xu, Bingjian Yang, **Wenxuan Liu**, Zheng Wang, **AAAI 2025**
 - [Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks](https://github.com/hsw0929/HSD), Xian Zhong, Shengwang Hu, **Wenxuan Liu***, Wenxin Huang, Jianhao Ding, Zhaofei Yu, Tiejun Huang, **ACM MM 2024**
 - [Predicting the Unseen: A Novel Dataset for Hidden Intention Localization in Pre-abnormal Analysis](https://github.com/Zzz99999/Hidden_Abnormal_Intention), Zehao Qi, Ruixu Zhang, Xinyi Hu, **Wenxuan Liu**, Zheng Wang, **ACM MM 2024**
