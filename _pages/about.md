@@ -129,7 +129,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 - *2022.08* Third Prize in the 11th China Software Cup Student Software Design Competition
 
 # 📖 Educations
-- *2024.06 - now*, Postdoctor, Peking University, China.
+- *2024.06 - now*, Postdoc, Peking University, China.
 - *2019.09 - 2024.06*, Ph D, Wuhan University of Technology, China.
 - *2017.09 - 2019.06*, Master, Wuhan University of Technology, China.
 - *2012.09 - 2016.06*, Bachelor, Xi’an Polytechnic of University, China. 
