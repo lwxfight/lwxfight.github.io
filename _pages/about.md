@@ -97,14 +97,14 @@ If you are seeking any form of academic cooperation, please feel free to email a
 
 [Pixel-REfocused Navigated Tri-margin for Semi-supervised Action Detection](https://dl.acm.org/doi/abs/10.1145/3688865.3689478)
 
-**Wenxuan Liu**, Shilei Zhao, Xiyu Han, Aoyu Yi, Kui Jiang, Zheng Wang, Xian Zhong
+**Wenxuan Liu**, Shilei Zhao, Xiyu Han, Aoyu Yi, Kui Jiang, Zheng Wang, Xian Zhong (Best Student Runner-up)
 
 [**PDF**](https://dl.acm.org/doi/pdf/10.1145/3688865.3689478) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper identifies a novel issue, termed pixel activation-uncertainty, in semi-supervised action detection, which highlights the difficulty in distinguishing between action and background boundaries due to active motion. 
 </div>
 </div>
 
-- [YES: You should Examine Suspect Cues for Low-Light Object Detection]{}, Shu Ye, Wenxin Huang, **Wenxuan Liu**, Liang Chen, Xiao Wang, Xian Zhong, **CVIU**
+- [YES: You should Examine Suspect Cues for Low-Light Object Detection]{https://www.sciencedirect.com/science/article/abs/pii/S1077314224003527?casa_token=bnigivn1YoMAAAAA:3vMY9IlCJtY42ys36mh9qFoDE-jAJtjF16qR4dsKBLp8xqGxq-O2OW40_dfnxZN0kS1EKGN7660}, Shu Ye, Wenxin Huang, **Wenxuan Liu**, Liang Chen, Xiao Wang, Xian Zhong, **CVIU**
 - [Pioneering Explainable Video Fact-Checking with a New Dataset and Multi-role Multimodal Model Approach](https://github.com), Kaipeng Niu, Danni xu, Bingjian Yang, **Wenxuan Liu**, Zheng Wang, **AAAI 2025**
 - [Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks](https://github.com/hsw0929/HSD), Xian Zhong, Shengwang Hu, **Wenxuan Liu***, Wenxin Huang, Jianhao Ding, Zhaofei Yu, Tiejun Huang, **ACM MM 2024**
 - [Predicting the Unseen: A Novel Dataset for Hidden Intention Localization in Pre-abnormal Analysis](https://github.com/Zzz99999/Hidden_Abnormal_Intention), Zehao Qi, Ruixu Zhang, Xinyi Hu, **Wenxuan Liu**, Zheng Wang, **ACM MM 2024**
