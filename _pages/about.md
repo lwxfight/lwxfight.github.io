@@ -104,6 +104,8 @@ If you are seeking any form of academic cooperation, please feel free to email a
 </div>
 </div>
 
+- [Fragrant: frequency-auxiliary guided relational attention network for low-light action recognition](https://link.springer.com/article/10.1007/s00371-024-03427-x), **Wenxuan Liu**, Xuemei Jia, Yihao Ju, Yakun Ju, Kui Jiang, Shifeng Wu, Luo Zhong, Xian Zhong, The Visual Computer.
+- [Actor-aware alignment network for action recognition](https://ieeexplore.ieee.org/abstract/document/9987642/), **Wenxuan Liu**, Xian Zhong, Xuemei Jia, Kui Jiang, Chia-Wen Lin, IEEE Signal Processing Letters.
 - [YES: You should Examine Suspect Cues for Low-Light Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S1077314224003527?casa_token=bnigivn1YoMAAAAA:3vMY9IlCJtY42ys36mh9qFoDE-jAJtjF16qR4dsKBLp8xqGxq-O2OW40_dfnxZN0kS1EKGN7660), Shu Ye, Wenxin Huang, **Wenxuan Liu**, Liang Chen, Xiao Wang, Xian Zhong, **CVIU**
 - [Pioneering Explainable Video Fact-Checking with a New Dataset and Multi-role Multimodal Model Approach](https://github.com), Kaipeng Niu, Danni xu, Bingjian Yang, **Wenxuan Liu**, Zheng Wang, **AAAI 2025**
 - [Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks](https://github.com/hsw0929/HSD), Xian Zhong, Shengwang Hu, **Wenxuan Liu***, Wenxin Huang, Jianhao Ding, Zhaofei Yu, Tiejun Huang, **ACM MM 2024**
