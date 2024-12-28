@@ -108,7 +108,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='_pages/labeltree05.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/labeltree05.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Predicting the Unseen: A Novel Dataset for Hidden Intention Localization in Pre-abnormal Analysis](https://dl.acm.org/doi/abs/10.1145/3664647.3681113)
