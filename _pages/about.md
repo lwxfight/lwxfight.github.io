@@ -104,6 +104,25 @@ If you are seeking any form of academic cooperation, please feel free to email a
 </div>
 </div>
 
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='_pages/labeltree05.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Predicting the Unseen: A Novel Dataset for Hidden Intention Localization in Pre-abnormal Analysis](https://dl.acm.org/doi/abs/10.1145/3664647.3681113)
+
+ZeHao Qi, Ruixu Zhang, Xinyi Hu, **Wenxuan Liu**, Zheng Wang
+
+[**PDF**](https://dl.acm.org/doi/pdf/10.1145/3664647.3681113) [**Dataset**](https://github.com/Zzz99999/Hidden_Abnormal_Intention) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The abnormal intention is dissected into four coarse-grained dimensions, under which eleven detailed perspectives are distinguished. 
+</div>
+</div>
+
+
+
+
 - [Fragrant: frequency-auxiliary guided relational attention network for low-light action recognition](https://link.springer.com/article/10.1007/s00371-024-03427-x), **Wenxuan Liu**, Xuemei Jia, Yihao Ju, Yakun Ju, Kui Jiang, Shifeng Wu, Luo Zhong, Xian Zhong, The Visual Computer, 2024.
 - [Actor-aware alignment network for action recognition](https://ieeexplore.ieee.org/abstract/document/9987642/), **Wenxuan Liu**, Xian Zhong, Xuemei Jia, Kui Jiang, Chia-Wen Lin, IEEE Signal Processing Letters, 2022.
 - [YES: You should Examine Suspect Cues for Low-Light Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S1077314224003527?casa_token=bnigivn1YoMAAAAA:3vMY9IlCJtY42ys36mh9qFoDE-jAJtjF16qR4dsKBLp8xqGxq-O2OW40_dfnxZN0kS1EKGN7660), Shu Ye, Wenxin Huang, **Wenxuan Liu**, Liang Chen, Xiao Wang, Xian Zhong, **CVIU**
