@@ -27,6 +27,7 @@ I maintain close collaborations with [Prof. Zhong Xian](http://cst.whut.edu.cn/x
 If you are seeking any form of academic cooperation, please feel free to email at liuwx66@pku.edu.cn.
 
 # 🔥 Action-related News
+- *2025.03*: &nbsp;🎉🎉 One co-authored paper was accepted by CVPR 2025.
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by Journal of Image and Graphics, 中国图象图形学报. 
 - *2024.08*: &nbsp;🎉🎉 One paper was accepted by PR.
 - *2024.07*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2024 International Workshop on Human-centric Multimedia Analysis.
@@ -48,7 +49,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 
   
 # 🔥 Other News
-- *2024.12*: &nbsp;🎉🎉 One co-authored paper was accepted by CVIU (CCF B). Congradulations to YES!
+- *2024.12*: &nbsp;🎉🎉 One co-authored paper was accepted by CVIU (CCF B). Congratulations to YES!
 - *2024.10*: &nbsp;🎉🎉 One co-authored paper was accepted by AAAI2025.
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024 Workshop on Multi-modal Misinformation Governance in the Era of Foundation Models.
 - *2023.11*：&nbsp;🎉🎉 One co-authored paper was accepted by PR.
