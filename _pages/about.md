@@ -69,10 +69,10 @@ If you are seeking any form of academic cooperation, please feel free to email a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='_images/SOTA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/SOTA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SOTA: Spike-Navigated Optimal TrAnsport Saliency Region Detection in Composite-bias Videos](https://)
+[SOTA: Spike-Navigated Optimal TrAnsport Saliency Region Detection in Composite-bias Videos]
 
 **Wenxuan Liu**, Yao Deng, Kang Chen, Xian Zhong, Zhaofei Yu, Tiejun Huang
 
@@ -94,7 +94,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='_images/DSMF0422_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/DSMF0422_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamic and static mutual fitting for action recognition](https://www.sciencedirect.com/science/article/abs/pii/S003132032400699X)
@@ -109,7 +109,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='_images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-Recommendation Disentanglement Network for View Fuzz in Action Recognition](https://ieeexplore.ieee.org/abstract/document/10122859)
@@ -124,7 +124,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM HCMA</div><img src='_images/0809_1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM HCMA</div><img src='images/0809_1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pixel-REfocused Navigated Tri-margin for Semi-supervised Action Detection](https://dl.acm.org/doi/abs/10.1145/3688865.3689478)
