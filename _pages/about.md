@@ -27,6 +27,7 @@ I maintain close collaborations with [Prof. Zhong Xian](http://cst.whut.edu.cn/x
 If you are seeking any form of academic cooperation, please feel free to email at liuwx66@pku.edu.cn.
 
 # 🔥 Action-related News
+- *2025.06*: &nbsp;🎉🎉 One paper was accepted by TITS.
 - *2025.06*: &nbsp;🎉🎉 Three co-authored papers were accepted by ACM MM 2025.
 - *2025.03*: &nbsp;🎉🎉 One co-authored paper was accepted by CVPR 2025.
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by Journal of Image and Graphics, 中国图象图形学报. 
@@ -67,6 +68,31 @@ If you are seeking any form of academic cooperation, please feel free to email a
 - *2020.06*: &nbsp;🎉🎉 One co-authored paper was accepted by ICMR 2020.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='_images/SOTA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SOTA: Spike-Navigated Optimal TrAnsport Saliency Region Detection in Composite-bias Videos](https://)
+
+**Wenxuan Liu**, Yao Deng, Kang Chen, Xian Zhong, Zhaofei Yu, Tiejun Huang
+
+[**PDF**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Existing saliency detection methods struggle in real-world scenarios due to motion blur and occlusions. In contrast, spike cameras, with their high temporal resolution, significantly enhance visual saliency maps. However, the composite noise inherent to spike camera imaging introduces discontinuities in saliency detection. Low-quality samples further distort model predictions, leading to saliency bias. To address these challenges, we propose Spike-navigated Optimal TrAnsport Saliency Region Detection (SOTA), a framework that leverages the strengths of spike cameras while mitigating biases in both spatial and temporal dimensions. Our method introduces Spike-based Micro-debias (SM) to capture subtle frame-to-frame variations and preserve critical details, even under minimal scene or lighting changes. Additionally, Spike-based Global-debias (SG) refines predictions by reducing inconsistencies across diverse conditions. Extensive experiments on real and synthetic datasets demonstrate that SOTA outperforms existing methods by eliminating composite noise bias.
+
+**Thanks:** I would like to express my sincere gratitude to **Xiyu Han** for the valuable assistance in preparing the figures for my paper. 
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='_images/DSMF0422_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
