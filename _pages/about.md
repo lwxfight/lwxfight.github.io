@@ -98,7 +98,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM HCMA</div><img src='_pages/0809_1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM HCMA</div><img src='_images/0809_1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pixel-REfocused Navigated Tri-margin for Semi-supervised Action Detection](https://dl.acm.org/doi/abs/10.1145/3688865.3689478)
