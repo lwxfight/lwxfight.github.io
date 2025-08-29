@@ -58,7 +58,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 - *2024.12*: &nbsp;🎉🎉 One co-authored paper was accepted by CVIU (CCF B). Congratulations to YES!
 - *2024.10*: &nbsp;🎉🎉 One co-authored paper was accepted by AAAI2025.
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024 Workshop on Multi-modal Misinformation Governance in the Era of Foundation Models.
-- *2023.11*：&nbsp;🎉🎉 One co-authored paper was accepted by PR.
+- *2023.11*: &nbsp;🎉🎉 One co-authored paper was accepted by PR.
 - *2023.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2023.
 - *2023.06*: &nbsp;🎉🎉 Two co-authored papers were accepted by ICASSP 2023.
 - *2022.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ICME 2022.
