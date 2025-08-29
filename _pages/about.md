@@ -72,23 +72,15 @@ If you are seeking any form of academic cooperation, please feel free to email a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/SOTA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SOTA: Spike-Navigated Optimal TrAnsport Saliency Region Detection in Composite-bias Videos]
+[SOTA: Spike-Navigated Optimal TrAnsport Saliency Region Detection in Composite-bias Videos](https://arxiv.org/pdf/2505.00394?)
 
 **Wenxuan Liu**, Yao Deng, Kang Chen, Xian Zhong, Zhaofei Yu, Tiejun Huang
 
-[**PDF**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Existing saliency detection methods struggle in real-world scenarios due to motion blur and occlusions. In contrast, spike cameras, with their high temporal resolution, significantly enhance visual saliency maps. However, the composite noise inherent to spike camera imaging introduces discontinuities in saliency detection. Low-quality samples further distort model predictions, leading to saliency bias. To address these challenges, we propose Spike-navigated Optimal TrAnsport Saliency Region Detection (SOTA), a framework that leverages the strengths of spike cameras while mitigating biases in both spatial and temporal dimensions. Our method introduces Spike-based Micro-debias (SM) to capture subtle frame-to-frame variations and preserve critical details, even under minimal scene or lighting changes. Additionally, Spike-based Global-debias (SG) refines predictions by reducing inconsistencies across diverse conditions. Extensive experiments on real and synthetic datasets demonstrate that SOTA outperforms existing methods by eliminating composite noise bias.
 
 **Thanks:** I would like to express my sincere gratitude to **Xiyu Han** for the valuable assistance in preparing the figures for my paper. 
 </div>
 </div>
-
-
-
-
-
-
-
 
 
 
