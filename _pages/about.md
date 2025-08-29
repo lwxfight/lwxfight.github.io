@@ -69,7 +69,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='_images/SOTA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='_images/SOTA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SOTA: Spike-Navigated Optimal TrAnsport Saliency Region Detection in Composite-bias Videos](https://)
