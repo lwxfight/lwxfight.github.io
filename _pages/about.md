@@ -20,7 +20,7 @@ redirect_from:
 I received my Ph.D. from [Wuhan University of Technology](http://english.whut.edu.cn/) in 2024, and I was extremely fortunate to be supervised by [Prof. Luo Zhong](https://baike.baidu.com/item/%E9%92%9F%E7%8F%9E/9264964), one of the most dedicated teachers I have ever met.
 My PhD research interests lie in action recognition under complex environments, video content analysis, and computing science. My ultimate aim is to use machine intelligence to help understand human action, facilitating daily life and health. 
 
-I am currently delving into spike vision at Peking University, under the supervision of [Prof. Tiejun Huang](https://cs.pku.edu.cn/info/1215/1980.htm), a leading expert in [spike vision](https://spikecv.github.io/zh/index.html).
+I am currently delving into spike vision at Peking University, under the supervision of [Prof. Tiejun Huang](https://cs.pku.edu.cn/info/1215/1980.htm), a leading expert in [spike vision](https://spikecv.github.io/zh/index.html) and [Prof. Zhaofei Yu](https://scholar.google.com/citations?user=qaUgD50AAAAJ&hl=zh-CN), a top-tier researcher in spiking neural networks.
 
 # 🤜🤛 Group 
 I maintain close collaborations with [Prof. Zhong Xian](http://cst.whut.edu.cn/xygk/szdw/201505/t20150527_876884.shtml)'s team [XIAN Group](https://xiangroup.github.io/) at Wuhan University of Technology and [AIM Lab](http://aim-nercms.whu.edu.cn/) of [Prof. Wang Zheng](https://wangzwhu.github.io/home/) from Wuhan University.
