@@ -27,6 +27,9 @@ I maintain close collaborations with [Prof. Zhong Xian](http://cst.whut.edu.cn/x
 If you are seeking any form of academic cooperation, please feel free to email at liuwx66@pku.edu.cn.
 
 # 🔥 Action-related News
+- *2026.01*: &nbsp;🎉🎉 One co-authored paper was accepted by PR. Congratulations to our undergraduate intern, Wei Feng.
+- *2025.11*: &nbsp;🎉🎉 One paper was accepted by AAAI 2026.
+- *2025.10*: &nbsp;🎉🎉 One co-authored paper was accepted by TITS. Congratulations to [Yuhao Xiao](https://scholar.google.com/citations?user=cOpmGYgAAAAJ&hl=en).
 - *2025.06*: &nbsp;🎉🎉 One paper was accepted by TITS.
 - *2025.06*: &nbsp;🎉🎉 Three co-authored papers were accepted by ACM MM 2025.
 - *2025.03*: &nbsp;🎉🎉 One co-authored paper was accepted by CVPR 2025.
@@ -46,7 +49,8 @@ If you are seeking any form of academic cooperation, please feel free to email a
 - *2021.11*: &nbsp;🎉🎉 Two co-authored papers were accepted by PRICAI 2021.
   
 # 🔥 Spike-related News
-- *2025.05*: &nbsp;🎉🎉 One co-authored paper was accepted by ICML 2025.
+- *2026.02*: &nbsp;🎉🎉 One co-authored paper was accepted by CVPR 2026. Congratulations to [Zecheng Hao](https://scholar.google.com/citations?user=txTkX7YAAAAJ&hl=zh-CN).
+- *2025.05*: &nbsp;🎉🎉 One co-authored paper was accepted by ICML 2025. Congratulations to [Zihan Huang](https://scholar.google.com/citations?user=QNM0EoIAAAAJ&hl=zh-CN).
 - *2025.05*: &nbsp;🎉🎉 One co-authored paper was accepted by Neurocomputing.
 - *2025.04*: &nbsp;🎉🎉 One paper was accepted by IJCAI 2025.
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024.
@@ -54,6 +58,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 
   
 # 🔥 Other News
+- *2026.02*: &nbsp;🎉🎉 One co-authored paper was accepted by CVPR 2026. Congratulations to [Yuran Wang](https://scholar.google.com/citations?user=ZGq8cbIAAAAJ&hl=zh-CN).
 - *2025.06*: &nbsp;🎉🎉 One co-authored papers were accepted by ACM MM 2025
 - *2024.12*: &nbsp;🎉🎉 One co-authored paper was accepted by CVIU (CCF B). Congratulations to YES!
 - *2024.10*: &nbsp;🎉🎉 One co-authored paper was accepted by AAAI2025.
