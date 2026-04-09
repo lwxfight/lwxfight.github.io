@@ -58,7 +58,7 @@ If you are seeking any form of academic cooperation, please feel free to email a
 
   
 # 🔥 Other News
-- *2026.02*: &nbsp;🎉🎉 One co-authored paper was accepted by CVPR 2026. Congratulations to [Yuran Wang](https://scholar.google.com/citations?user=ZGq8cbIAAAAJ&hl=zh-CN).
+- *2026.02*: &nbsp;🎉🎉 One co-authored paper was accepted by **CVPR 2026 (Highlight)**. Congratulations to [Yuran Wang](https://scholar.google.com/citations?user=ZGq8cbIAAAAJ&hl=zh-CN).
 - *2025.06*: &nbsp;🎉🎉 One co-authored papers were accepted by ACM MM 2025
 - *2024.12*: &nbsp;🎉🎉 One co-authored paper was accepted by CVIU (CCF B). Congratulations to YES!
 - *2024.10*: &nbsp;🎉🎉 One co-authored paper was accepted by AAAI2025.
